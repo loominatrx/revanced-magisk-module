@@ -1,4 +1,4 @@
-YouTube: 18.37.36  
+YouTube: 18.38.37  
 Music-Extended (arm64-v8a): 6.20.51  
 Music-Extended (arm-v7a): 6.20.51  
 YouTube-Extended: 18.31.40  
