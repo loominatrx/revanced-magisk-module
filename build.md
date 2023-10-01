@@ -1,13 +1,13 @@
-YouTube: 18.38.39  
 Music-Extended (arm64-v8a): 6.21.51  
 YouTube-Extended: 18.32.39  
+YouTube: 18.38.44  
 Music-Extended (arm-v7a): 6.21.51  
 Music (arm64-v8a): 6.21.51  
 Music (arm-v7a): 6.21.51  
-Twitter: 10.9.0-release.0  
 Twitch: 15.4.1  
-Reddit: 2023.38.0  
+Twitter: 10.9.0-release.0  
 TikTok: 31.5.3  
+Reddit: 2023.38.0  
 Lightroom: 8.5.2  
 Messenger: 428.0.0.35.115  
 
