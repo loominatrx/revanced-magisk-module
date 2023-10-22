@@ -8,7 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "debugging always-autorepeat client-spoof comments enable-wide-searchbar hide-artist-card hide-captions-button hide-create-button hide-info-cards hide-seekbar hide-time spoof-app-version tablet-mini-player swipe-controls"
+excluded-patches = "'Enable debugging' 'Client spoof' 'Always autorepeat' 'Swipe controls' 'Enable tablet layout' 'Hide info cards' 'Hide timestamp' 'Comments' 'Hide seekbar' 'Player flyout menu' 'Hide 'Load more' button' 'Hide floating microphone button' 'Hide endscreen cards' 'Hide album cards' 'Hide filter bar' 'Wide searchbar' 'Tablet mini player' 'Spoof app version' 'Disable auto captions' 'Hide cast button' 'Hide player buttons' 'Hide captions button' 'Hide video action buttons' 'Disable player popup panels'"
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
