@@ -1,3 +1,5 @@
+
+parallel-jobs = 4 # amount of cores to use for parallel patching, if not set nproc is used
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
@@ -62,3 +64,6 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
