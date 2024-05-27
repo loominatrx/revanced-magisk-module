@@ -1,10 +1,10 @@
-Music (arm-v7a): 7.02.51  
 Music (arm64-v8a): 7.02.51  
-TikTok: 32.5.3  
 Twitter: 10.42.0-release.0  
-YouTube: 19.11.43  
+Music (arm-v7a): 7.02.51  
 YouTube-Extended: 19.20.34  
+YouTube: 19.11.43  
 Twitch: 16.9.1  
+TikTok: 32.5.3  
 Reddit: 2024.21.0  
 Music-Extended (arm64-v8a): 7.02.51  
 Music-Extended (arm-v7a): 7.02.51  
@@ -16,9 +16,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.9.2.apk  
-Patches: inotia00/revanced-patches-4.8.3.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.8.3)
+Integrations: inotia00/revanced-integrations-1.9.3.apk  
+Patches: inotia00/revanced-patches-4.8.5.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.8.5)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.9.1.apk  
